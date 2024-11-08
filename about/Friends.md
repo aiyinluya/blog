@@ -11,8 +11,8 @@ PS：排名不分先后，友情第一，链接第二 ~~
      <a class="a-friend" target="_blank" style="background-color:#FF9966;color:black" href="https://www.cnblogs.com/bytesfly/">
         <img class="blog-avatar" src="https://img2020.cnblogs.com/blog/1546632/202109/1546632-20210916125244772-353101483.png">
         <div class="text-container">
-            <div class="name">字节飞扬</div>
-            <div class="description">互联网是有记忆的，我想留下一些成长的脚印。</div>
+            <div class="name">Further Step</div>
+            <div class="description">万古教员有名言，自信人生二百年。</div>
         </div>
     </a>
      <a class="a-friend" target="_blank" style="background-color:#98b755;color:black" href="https://notebook.js.org/">
@@ -30,8 +30,8 @@ PS：排名不分先后，友情第一，链接第二 ~~
 
 与我 [ 联系 ](https://bytesfly.github.io/blog/#/about/?id=💌-联系) 或者 去 [博客园](https://www.cnblogs.com/bytesfly/p/awesome-blogs.html) 评论 或者 [github](https://github.com/bytesfly/blog/blob/master/about/Friends.md) 提`issues`or`pull requests`都行，格式大致如下：
 
-> * 昵称：字节飞扬
+> * 昵称：Further Step
 > * 头像：https://img2020.cnblogs.com/blog/1546632/202109/1546632-20210916125244772-353101483.png
 > * 主页：[https://www.cnblogs.com/bytesfly/](https://www.cnblogs.com/bytesfly/)
-> * 说明：互联网是有记忆的，我想留下一些成长的脚印。
+> * 说明：万古教员有名言，自信人生二百年。
 

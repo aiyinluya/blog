@@ -1,8 +1,8 @@
 ![icon](https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png)
 
-## 字节飞扬
+## Further Step
 
-- 互联网是有记忆的，我想留下一些成长的脚印。
+- 万古教员有名言，自信人生二百年。
 
 
 [GitHub](https://github.com/bytesfly/blog)
