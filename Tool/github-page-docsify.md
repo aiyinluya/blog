@@ -30,7 +30,7 @@
 
 快速搭建非常简单，这里假定你已经有了`GitHub`账号，没有的话，注册一下。
 
-- 第一步：`Fork`我的当前博客仓库，即 [https://github.com/bytesfly/blog](https://github.com/bytesfly/blog)
+- 第一步：`Fork`我的当前博客仓库，即 [https://github.com/aiyinluya/blog](https://github.com/aiyinluya/blog)
 
 ![](http://img2020.cnblogs.com/blog/1546632/202109/1546632-20210918224423979-1304989038.png)
 

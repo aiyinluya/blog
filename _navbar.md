@@ -22,7 +22,7 @@
   - [烟花](pages/fireworks.html ':ignore')
 - [<span class="iconfont icon-csdn"></span> 博客园](https://bytesfly.cnblogs.com/)
 - [⛷ 侠客岛](https://bytesfly.github.io/island/)
-- [<span class="iconfont icon-github1"></span> GitHub](https://github.com/bytesfly/blog)
+- [<span class="iconfont icon-github1"></span> GitHub](https://github.com/aiyinluya/blog)
 
 
 

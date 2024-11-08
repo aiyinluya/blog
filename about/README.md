@@ -1,6 +1,6 @@
 # 🎉 关于本站
 
-本站源码以及全部内容： [https://github.com/bytesfly/blog](https://github.com/bytesfly/blog)
+本站源码以及全部内容： [https://github.com/aiyinluya/blog](https://github.com/aiyinluya/blog)
 
 <img src="https://img.shields.io/github/stars/bytesfly/blog" data-origin="https://img.shields.io/github/stars/bytesfly/blog" alt=""> 
 <img src="https://img.shields.io/github/forks/bytesfly/blog" data-origin="https://img.shields.io/github/forks/bytesfly/blog" alt="">
@@ -65,7 +65,7 @@
 
 - **微信公众号：** Further Step（扫码关注我呀）
 
-  <div ><img src="https://img2020.cnblogs.com/blog/1546632/202109/1546632-20210923090812528-762106506.png" width="200" height="200" /></div>
+  <div ><img src="Resource/images/wechat.jpg" width="200" height="200" /></div>
 
 博客内容仅是个人的笔记与总结，有错误之处还请多多指正，欢迎来 [博客园](https://www.cnblogs.com/bytesfly) 讨论！
 
