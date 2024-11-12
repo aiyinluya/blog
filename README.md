@@ -1,4 +1,10 @@
 
+
+## 设计模式
+
+- [设计模式概述](DesignPatterns/overview.md)
+- [面向对象设计原则](DesignPattern/object-oriented-design-principles.md)
+
 ## Java
 
 - [MyBatis-Plus中如何使用ResultMap](Java/resultmap-in-mybatis-plus.md)
@@ -47,11 +53,6 @@
 ## Netty
 
 - [不识Netty真面目，只缘未读此真经](Netty/the-truth-of-netty.md)
-
-## 设计模式
-
-- [设计模式概述](DesignPatterns/overview.md)
-- [面向对象设计原则](DesignPattern/object-oriented-design-principles.md)
 
 **创建型模式:**
 - [工厂模式三兄弟(Factory Pattern)](DesignPattern/factory-pattern.md)

@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <title>Further Step</title>
+  <!-- 引入Mermaid CSS -->
+  <link rel="stylesheet" href="//unpkg.com/mermaid/dist/mermaid.min.css" />
   <link rel="icon" href="https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/favicon.ico">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="referrer" content="no-referrer" />
@@ -332,7 +334,10 @@
     /*  background-image: linear-gradient(#6ecd56, #33a9dc, #cb6196, #c16290);*/
     /*  border-radius: 2em;*/
     /*}*/
-
+    .mermaid {
+      display: flex;
+      justify-content: center;
+    }
   </style>
 
 </head>
@@ -381,10 +386,39 @@
         style: 'text-align: left;',
       },//添加页脚
 
+      plugins: [
+        function (hook, vm) {
+          hook.ready(function () {
+            mermaid.initialize({ 
+              startOnLoad: true,
+              theme: 'custom',
+              themeCSS: `
+                .node1 rect { fill: red; }
+                .node2 rect { fill: green; }
+                .node3 rect { fill: blue; }
+              `
+            }); // 初始化Mermaid配置
+          });
+          hook.doneEach(function () {
+            mermaid.init(); // 每次加载完页面后渲染Mermaid图表
+          });
+        }
+      ],
+
       markdown: {
+        codeHighlightOptions: {
+          highlight: function (code, lang) {
+            if (lang === 'mermaid') {
+              return '<div class="mermaid">' + code + '</div>';
+            }
+            return '';
+          }
+        },
         renderer: {
           code: function(code, lang, base=null) {
-
+            if (lang === 'mermaid') {
+              return '<div class="mermaid">' + code + '</div>';
+            }
             if (lang === "dot") {
               return (
                       '<div class="viz">'+ Viz(code, "SVG")+'</div>'
@@ -437,6 +471,9 @@
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/viz.js"></script>
   <!-- 支持 LaTex 语言 -->
   <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+  <!-- 引入Mermaid JS -->
+  <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+
 
   <!-- 添加 PDF 页面展示功能 -->
   <!-- PDFObject.js is a required dependency of this plugin -->
