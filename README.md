@@ -50,7 +50,7 @@
 
 ## 设计模式
 
-- [设计模式概述](DesignPattern/overview.md)
+- [设计模式概述](DesignPatterns/overview.md)
 - [面向对象设计原则](DesignPattern/object-oriented-design-principles.md)
 
 **创建型模式:**
