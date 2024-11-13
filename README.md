@@ -3,6 +3,8 @@
 ## 设计模式
 
 - [设计模式概述](DesignPatterns/overview.md)
+
+<!--
 - [面向对象设计原则](DesignPattern/object-oriented-design-principles.md)
 
 ## Java
@@ -154,3 +156,7 @@
 **数学**
 - [只出现一次的数字](LeetCode/0136-single-number.md)
 
+-->
+<!--
+代码执行： docsify serve
+-->
