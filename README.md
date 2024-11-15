@@ -3,6 +3,7 @@
 ## 设计模式
 
 - [设计模式概述](DesignPatterns/overview.md)
+- [UML中类图的介绍与使用](DesignPatterns/class-diagram.md)
 
 <!--
 - [面向对象设计原则](DesignPattern/object-oriented-design-principles.md)
@@ -160,3 +161,4 @@
 <!--
 代码执行： docsify serve
 -->
+
