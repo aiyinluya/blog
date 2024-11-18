@@ -9,6 +9,7 @@
 ## 第二章 创建型模式
 
 - [单例模式](DesignPatterns/singleton-model.md)
+- [简单工厂模式](DesignPatterns/simple-factory-pattern.md)
 
 ## 第三章 结构型模式
 <!-- - [适配器模式](DesignPatterns/adapter-pattern.md) -->
