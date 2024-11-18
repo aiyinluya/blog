@@ -2,8 +2,19 @@
 
 ## 设计模式
 
+## 第一章 概述
 - [设计模式概述](DesignPatterns/overview.md)
 - [UML中类图的介绍与使用](DesignPatterns/class-diagram.md)
+
+## 第二章 创建型模式
+
+- [单例模式](DesignPatterns/singleton-model.md)
+
+## 第三章 结构型模式
+<!-- - [适配器模式](DesignPatterns/adapter-pattern.md) -->
+
+## 第四章 行为型模式
+<!-- - [职责链模式](DesignPatterns/chain-of-responsibility-pattern.md) -->
 
 <!--
 - [面向对象设计原则](DesignPattern/object-oriented-design-principles.md)
