@@ -11,6 +11,7 @@
 - [单例模式](DesignPatterns/singleton-model.md)
 - [简单工厂模式](DesignPatterns/simple-factory-pattern.md)
 - [工厂方法模式](DesignPatterns/factory-method-pattern.md)
+- [抽象工厂模式](DesignPatterns/abstract-factory-pattern.md)
 
 ## 第三章 结构型模式
 <!-- - [适配器模式](DesignPatterns/adapter-pattern.md) -->
