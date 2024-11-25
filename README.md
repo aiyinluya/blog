@@ -12,6 +12,8 @@
 - [简单工厂模式](DesignPatterns/simple-factory-pattern.md)
 - [工厂方法模式](DesignPatterns/factory-method-pattern.md)
 - [抽象工厂模式](DesignPatterns/abstract-factory-pattern.md)
+- [原型模式](DesignPatterns/prototype-model.md)
+- [建造者模式](DesignPatterns/builder-pattern.md)
 
 ## 第三章 结构型模式
 <!-- - [适配器模式](DesignPatterns/adapter-pattern.md) -->
@@ -24,6 +26,8 @@
 ## 编程千问
 
 - [第一问：谈谈你理解的TCP协议](ThousandQuestions/q1.md)
+- [第二问：C++中const用法都有哪些，它如何保证不变性？](ThousandQuestions/q2.md)
+- [第三问：逻辑运算符详细解释](ThousandQuestions/q3.md)
 
 <!--
 - [面向对象设计原则](DesignPattern/object-oriented-design-principles.md)
