@@ -19,6 +19,7 @@
 <!-- - [适配器模式](DesignPatterns/adapter-pattern.md) -->
 
 ## 第四章 行为型模式
+- [观察者模式](DesignPatterns/observer-pattern.md)
 <!-- - [职责链模式](DesignPatterns/chain-of-responsibility-pattern.md) -->
 
 # 每日一学
@@ -27,7 +28,8 @@
 
 - [第一问：谈谈你理解的TCP协议](ThousandQuestions/q1.md)
 - [第二问：C++中const用法都有哪些，它如何保证不变性？](ThousandQuestions/q2.md)
-- [第三问：逻辑运算符详细解释](ThousandQuestions/q3.md)
+- [第三问：逻辑运算符与其截断原理](ThousandQuestions/q3.md)
+- [第四问：QT中信号和槽机制的原理是什么？](ThousandQuestions/q4.md)
 
 <!--
 - [面向对象设计原则](DesignPattern/object-oriented-design-principles.md)
