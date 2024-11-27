@@ -16,7 +16,7 @@
 - [建造者模式](DesignPatterns/builder-pattern.md)
 
 ## 第三章 结构型模式
-<!-- - [适配器模式](DesignPatterns/adapter-pattern.md) -->
+- [适配器模式](DesignPatterns/adapter-model.md)
 
 ## 第四章 行为型模式
 - [观察者模式](DesignPatterns/observer-pattern.md)
