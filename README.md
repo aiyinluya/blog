@@ -17,6 +17,7 @@
 
 ## 第三章 结构型模式
 - [适配器模式](DesignPatterns/adapter-model.md)
+- [桥接模式](DesignPatterns/bridge-model.md)
 
 ## 第四章 行为型模式
 - [观察者模式](DesignPatterns/observer-pattern.md)
@@ -31,6 +32,7 @@
 - [第三问：逻辑运算符与其截断原理](ThousandQuestions/q3.md)
 - [第四问：QT中信号和槽机制的原理是什么？](ThousandQuestions/q4.md)
 - [第五问：一个程序从点击到启动发生了什么？](ThousandQuestions/q5.md)
+- [第六问：http和https区别与联系](ThousandQuestions/q6.md)
 
 <!--
 - [面向对象设计原则](DesignPattern/object-oriented-design-principles.md)
