@@ -1,4 +1,11 @@
-
+# 现代C++白皮书(C++ 2006-2020)
+## 1. 现在C++的文艺复兴
+## 2. 前言和背景
+## 3. C++标准委员会
+## 4. C++11
+## 5. 概念和错误处理
+## 6. C++20
+## 7. 回顾
 
 # 设计模式
 
@@ -19,6 +26,9 @@
 - [适配器模式](DesignPatterns/adapter-model.md)
 - [桥接模式](DesignPatterns/bridge-model.md)
 - [组合模式](DesignPatterns/combined-model.md)
+- [装饰器模式](DesignPatterns/decorator-pattern.md)
+- [外观模式](DesignPatterns/facade-pattern.md)
+- [享元模式](DesignPatterns/flyweight-pattern.md)
 
 ## 第四章 行为型模式
 - [观察者模式](DesignPatterns/observer-pattern.md)
