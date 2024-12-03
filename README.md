@@ -29,9 +29,12 @@
 - [装饰器模式](DesignPatterns/decorator-pattern.md)
 - [外观模式](DesignPatterns/facade-pattern.md)
 - [享元模式](DesignPatterns/flyweight-pattern.md)
+- [代理模式](DesignPatterns/proxy-pattern.md)
 
 ## 第四章 行为型模式
 - [观察者模式](DesignPatterns/observer-pattern.md)
+
+> 更多模式开发中
 <!-- - [职责链模式](DesignPatterns/chain-of-responsibility-pattern.md) -->
 
 # 每日一学
