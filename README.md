@@ -34,6 +34,8 @@
 ## 第四章 行为型模式
 - [观察者模式](DesignPatterns/observer-pattern.md)
 - [策略模式](DesignPatterns/strategy-pattern.md)
+- [模板方法模式](DesignPatterns/templete-method-pattern.md)
+- [迭代器模式](DesignPatterns/iterator-pattern.md)
 
 > 更多模式开发中
 <!-- - [职责链模式](DesignPatterns/chain-of-responsibility-pattern.md) -->
