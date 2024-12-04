@@ -33,6 +33,7 @@
 
 ## 第四章 行为型模式
 - [观察者模式](DesignPatterns/observer-pattern.md)
+- [策略模式](DesignPatterns/strategy-pattern.md)
 
 > 更多模式开发中
 <!-- - [职责链模式](DesignPatterns/chain-of-responsibility-pattern.md) -->
@@ -48,6 +49,9 @@
 - [第五问：一个程序从点击到启动发生了什么？](ThousandQuestions/q5.md)
 - [第六问：http和https区别与联系](ThousandQuestions/q6.md)
 - [第七问：你了解大端和小端字节序吗？](ThousandQuestions/q7.md)
+- [第八问：在浏览器中输入URL后发生了什么？](ThousandQuestions/q8.md)
+- [第九问：能否尽可能详细阐述指针和引用的区别？](ThousandQuestions/q9.md)
+- [第十问：TCP协议是怎么做到可靠性的？它的可靠指的是到哪一层的可靠？](ThousandQuestions/q10.md)
 
 <!--
 代码执行： docsify serve
