@@ -36,6 +36,9 @@
 - [策略模式](DesignPatterns/strategy-pattern.md)
 - [模板方法模式](DesignPatterns/templete-method-pattern.md)
 - [迭代器模式](DesignPatterns/iterator-pattern.md)
+- [责任链模式](DesignPatterns/chain-responsibility-pattern.md)
+
+- [命令模式](DesignPatterns/command-pattern.md)
 
 > 更多模式开发中
 <!-- - [职责链模式](DesignPatterns/chain-of-responsibility-pattern.md) -->
