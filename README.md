@@ -54,6 +54,8 @@
 - [第八问：在浏览器中输入URL后发生了什么？](ThousandQuestions/q8.md)
 - [第九问：能否尽可能详细阐述指针和引用的区别？](ThousandQuestions/q9.md)
 - [第十问：TCP协议是怎么做到可靠性的？它的可靠指的是到哪一层的可靠？](ThousandQuestions/q10.md)
+- [第十一问：TCP的窗口机制是什么？](ThousandQuestions/q11.md)
+- [第十二问：TCP慢起动详细解释](ThousandQuestions/q12.md)
 
 <!--
 代码执行： docsify serve
